@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "phone": "+91 98765 43210"
+  },
+  {
+    "id": 2,
+    "name": "Diya Patel",
+    "email": "diya.patel@example.com",
+    "phone": "+91 87654 32109"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "phone": "+91 91234 56789"
+  },
+  {
+    "id": 4,
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@example.com",
+    "phone": "+91 99876 54321"
+  },
+  {
+    "id": 5,
+    "name": "Ishaan Nair",
+    "email": "ishaan.nair@example.com",
+    "phone": "+91 98234 56123"
+  },
+  {
+    "id": 6,
+    "name": "Meera Reddy",
+    "email": "meera.reddy@example.com",
+    "phone": "+91 96543 27891"
+  },
+  {
+    "id": 7,
+    "name": "Arjun Singh",
+    "email": "arjun.singh@example.com",
+    "phone": "+91 98712 34567"
+  },
+  {
+    "id": 8,
+    "name": "Sanya Gupta",
+    "email": "sanya.gupta@example.com",
+    "phone": "+91 99123 45678"
+  },
+  {
+    "id": 9,
+    "name": "Kabir Das",
+    "email": "kabir.das@example.com",
+    "phone": "+91 98211 22334"
+  },
+  {
+    "id": 10,
+    "name": "Tanya Bose",
+    "email": "tanya.bose@example.com",
+    "phone": "+91 97331 12211"
+  },
+  {
+    "id": 11,
+    "name": "Vikram Rao",
+    "email": "vikram.rao@example.com",
+    "phone": "+91 95678 99876"
+  },
+  {
+    "id": 12,
+    "name": "Neha Pillai",
+    "email": "neha.pillai@example.com",
+    "phone": "+91 98456 71234"
+  }
+]
